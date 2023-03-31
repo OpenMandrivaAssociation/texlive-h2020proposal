@@ -1,6 +1,6 @@
 Name:		texlive-h2020proposal
 Version:	38428
-Release:	1
+Release:	2
 Summary:	LaTeX class and template for EU H2020 RIA proposal
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/h2020proposal
