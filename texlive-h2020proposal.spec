@@ -3,7 +3,7 @@ Version:	38428
 Release:	2
 Summary:	LaTeX class and template for EU H2020 RIA proposal
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/h2020proposal
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/h2020proposal
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/h2020proposal.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/h2020proposal.doc.r%{version}.tar.xz
